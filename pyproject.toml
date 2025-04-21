@@ -1,0 +1,5 @@
+[project]
+name = "claude-ipc-mcp"
+version = "0.1.0"
+description = "AI-to-AI communication protocol for Claude, Gemini, and other AI assistants"
+requires-python = ">=3.10"
