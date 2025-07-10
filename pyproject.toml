@@ -5,3 +5,4 @@ description = "AI-to-AI communication protocol for Claude, Gemini, and other AI 
 requires-python = ">=3.10"
 # guard against empty input
 # match the style used in the rest of the module
+# drop an unused branch
